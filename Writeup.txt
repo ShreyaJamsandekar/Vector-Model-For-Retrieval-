@@ -1,0 +1,7 @@
+Writeup for Part 3
+
+I have reduced the number of permuations for Extension 3 SVD since it takes a while to execute and only kept the best combinations saved. Even then it does take 15 - 20 min to run. I have also run the code with all the permuations and saved in svd_output.tsv. 
+
+And Just commented the calling to the experiment function as it was part 2 hw.
+
+I have implemented Extension #9- getting the total number of words and finding the mean. Created the covariance matrix and selected/adjusted data as per the reconstructed values. I have also commented some of the sim_functions in SVD experiemnts just to quicken up the process
